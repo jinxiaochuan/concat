@@ -1094,7 +1094,7 @@ html{
     left: 50%;
     margin-left: -3rem;
     width: 6rem;
-    height: 6rem;
+    height: 8rem;
     background: #424242;
 }
 #page5 .concat .con{
@@ -1108,7 +1108,10 @@ html{
     position: absolute;
     left: 50%;
     top: 1.5rem;
-    margin-left: -1.11rem;
+    width: 3.37rem;
+    height: 4.5rem;
+    background-size: 100% 100%;
+    margin-left: -1.685rem;
     opacity: 0;
     animation: concat 2s ease-in-out forwards;
     -webkit-animation: concat 2s ease-in-out forwards;;
@@ -1144,7 +1147,7 @@ html{
 #page5 .concat .tel{
     position: absolute;
     left: 50%;
-    top: 5rem;
+    top: 7rem;
     margin-left: -1.11rem;
     opacity: 0;
     color: #fff;
@@ -1154,7 +1157,7 @@ html{
 #page5 .concat .email{
     position: absolute;
     left: 50%;
-    top: 5.5rem;
+    top: 7.5rem;
     margin-left: -1.8rem;
     opacity: 0;
     color: #fff;
